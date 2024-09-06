@@ -1,0 +1,21 @@
+.contact {
+    padding: 50px 20px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .contact-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contact-list li {
+    margin: 10px 0;
+  }
+  
+  .contact-list a {
+    color: #1da1f2;
+    text-decoration: none;
+  }
+  

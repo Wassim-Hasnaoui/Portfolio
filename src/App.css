@@ -1,0 +1,36 @@
+.portfolio {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile-image {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.intro h1 {
+  font-size: 2.5rem;
+}
+
+.technologies ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.technologies li {
+  display: inline-block;
+  margin: 10px;
+}
+
+.projects .project {
+  margin: 20px 0;
+}
+
+.contact ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact li {
+  margin: 10px 0;
+}

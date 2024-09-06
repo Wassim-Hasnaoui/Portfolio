@@ -1,0 +1,16 @@
+.technologies {
+    padding: 50px 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .tech-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .tech-list li {
+    display: inline-block;
+    margin: 10px;
+    font-size: 1.2em;
+  }
+  
